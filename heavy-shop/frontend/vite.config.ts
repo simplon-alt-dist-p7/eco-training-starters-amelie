@@ -9,6 +9,6 @@ export default defineConfig({
     proxy: {
       '/api': 'http://localhost:4100',
       '/assets': 'http://localhost:4100'
-    }
+    },
   }
 });
