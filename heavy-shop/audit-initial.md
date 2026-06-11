@@ -122,6 +122,19 @@ La même chose que pour la page *Accueil*.
 
 ---
 
+## EcoIndex
 ### Catalogue
 
-L'analyse devait se faire via EcoIndex mais suite a des difficultés, elle s'est faîtes sur Lightouse. Les résultats sont les mêmes que pour les autres pages.
+**Score** : A - note : 86
+**Mesure** : 
+    - Consommation eau bleu : 19.2l
+    - Emission de gaz à effet de serre : 1.28 kgCO2
+    - Poids de la page : 0.301 Mo
+    - Complexité : 125 éléments
+    - Requêtes : 26
+
+Il y a toujours une marge d'amélioration mais aucun point critique ne ressort.
+
+## Conclusion
+
+Les indicateurs d'éco-conception sont globalement bons. Néanmoins, l'analyse Ligthhouse révèle de sérieux problèmes de performances optimisable.

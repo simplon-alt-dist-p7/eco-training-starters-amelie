@@ -10,5 +10,6 @@ export default defineConfig({
       '/api': 'http://localhost:4100',
       '/assets': 'http://localhost:4100'
     },
+    allowedHosts: ['.trycloudflare.com'],
   }
 });
